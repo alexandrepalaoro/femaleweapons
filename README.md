@@ -7,6 +7,7 @@ If you use anything from this repository, please cite the paper.
 
 ***
 
+Dalosto, MM; Ayres-Peres, L; Araujo, PB; Santos, S & Palaoro, AV (2019) Pay attention to the ladies: female aggressive behavior and weapon allometry provides clues for sexual selection in freshwater anomurans (Decapoda: Aeglidae). Behavioral Ecology and Sociobiology, 73: 127. DOI: 10.1007/s00265-019-2741-5
 
 -----------------------
 #### File summary:</br>
